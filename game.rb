@@ -163,7 +163,7 @@ class Game
   end
   
   def back_home()
-    puts "You made it! Time to get to work!"
+    puts "You made it! party time!"
     Process.exit
   end
 end
